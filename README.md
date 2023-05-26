@@ -1,4 +1,5 @@
-# Homework for online course [Python QA Engineer from OTUS](https://otus.ru/lessons/avtomatizaciya-web-testirovaniya/)
+
+
 
 ## 1. UI tests for opencart
 
